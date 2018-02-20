@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Armaghan/Desktop/rcs2/tb_idea_rcs2_isim_beh.exe" -prj "C:/Users/Armaghan/Desktop/rcs2/tb_idea_rcs2_beh.prj" "work.tb_idea_rcs2" 
