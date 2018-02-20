@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Armaghan/Desktop/rcs2 - Copy/tb_idea_rcs2plus_isim_beh.exe" -prj "C:/Users/Armaghan/Desktop/rcs2 - Copy/tb_idea_rcs2plus_beh.prj" "work.tb_idea_rcs2plus" 
